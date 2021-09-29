@@ -1,3 +1,7 @@
+*********************************************************************************************************************
+**ARCHIVED PROJECT** AdoptOpenJDK has moved to the Eclipse Adoptium Project and this version is no longer maintained.
+*********************************************************************************************************************
+
 # Welcome to the JDK!
 
 For build instructions please see the
